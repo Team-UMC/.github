@@ -21,6 +21,6 @@
 |<a href="https://github.com/JJHyeok13">@JJHyeok13</a>|<a href="https://github.com/chaserChoi">@chaserChoi</a>|<a href="https://github.com/mindidii">@mindidii</a>|<a href="https://github.com/Lio-LWY">@Lio-LWY</a>|
 
 ### 🍎 iOS
-|리버/이경수|예니/나예은|원/김승원|이든/이태현|
-|:----:|:----:|:----:|:----:|
-|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/yaeun">@yaeun</a>|<a href="https://github.com/SeungWon1125">@SeungWon1125</a>|<a href="https://github.com/leten02">@leten02</a>|
+|리버/이경수|예니/나예은|원/김승원|
+|:----:|:----:|:----:|
+|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/yaeun">@yaeun</a>|<a href="https://github.com/SeungWon1125">@SeungWon1125</a>|
